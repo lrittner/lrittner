@@ -1,10 +1,18 @@
 
 <h1 align="center">Hi, I'm Leticia Rittner</h1>
 <h3 align="center">An Associate Professor at the University of Campinas</h3>
+<p align="center">
+<a href="https://twitter.com/leticiarittner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leticiarittner" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/leticia-rittner-918482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leticia-rittner-918482" height="30" width="40" /></a>
+<a href="https://instagram.com/lrittner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lrittner" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@leticiarittner466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@leticiarittner466" height="30" width="40" /></a>
+</p>
 
 - I’m the Head of the [Medical Image Computing Lab](https://miclab.fee.unicamp.br/)
 
 - 👨‍💻 All MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp)
+
+<img align="right" src="https://github.com/lrittner/lrittner/blob/main/brain_git.gif">
 
 - 👯 If you are interested in my [Data Science for Health course](https://datasci4health.github.io/home/)
 
