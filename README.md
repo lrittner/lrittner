@@ -10,7 +10,7 @@
 
 I’m the Head of the [Medical Image Computing Lab](https://miclab.fee.unicamp.br/), working on AI-based methods and algorithms to analyze medical images and data, such brain MRI and chest CT. All MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp).
 
-Here you can find repositories with material from undergraduate and graduate courses I teach, such as:
+Here you can find repositories with material (in portuguese) from undergraduate and graduate courses I teach, such as:
 
 - 👨‍💻 [Data Science and Visualization for Health](https://datasci4health.github.io/home/)
 
