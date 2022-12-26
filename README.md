@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi, I'm Leticia Rittner</h1>
 <h3 align="center">An Associate Professor at the University of Campinas</h3>
