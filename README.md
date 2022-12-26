@@ -3,22 +3,20 @@
 <h3 align="center">Associate Professor at the University of Campinas</h3>
 <p align="center">
 <a href="https://linkedin.com/in/leticia-rittner-918482" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leticia-rittner-918482" height="30" width="40" /></a>
-<!-- <a href="https://twitter.com/leticiarittner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leticiarittner" height="30" width="40" /></a>
--->
-<!-- <a href="https://instagram.com/lrittner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lrittner" height="30" width="40" /></a>
--->
+<a href="https://twitter.com/leticiarittner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leticiarittner" height="30" width="40" /></a>
+<a href="https://instagram.com/lrittner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lrittner" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@leticiarittner466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@leticiarittner466" height="30" width="40" /></a>
 </p>
 
-I’m the Head of the [Medical Image Computing Lab](https://miclab.fee.unicamp.br/) and all MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp)
+I’m the Head of the [Medical Image Computing Lab](https://miclab.fee.unicamp.br/), working on AI-based methods and algorithms to analyze medical images and data, such as Structural MRI, Diffusion-MRI and MR Spectroscopy. All MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp)
 
-- 👨‍💻 All MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp)
+Here you can find repositories with material from undergraduate and graduate courses I teach, such as:
 
-- 👯 If you are interested in my [Data Science for Health course](https://datasci4health.github.io/home/)
+- 👨‍💻 [Data Science and Visualization for Health](https://datasci4health.github.io/home/)
 
-- 🤝 You can find my [Image Processing course](https://github.com/lrittner/ea979)
+- 👨‍💻 [Image Processing](https://github.com/lrittner/ea979)
 
-- 📄 You can check my website at [https://www.leticiarittner.com/](https://www.leticiarittner.com/)
+- 📄 To learn more about me and my work, check my website at [https://www.leticiarittner.com/](https://www.leticiarittner.com/)
 
 <img align="right" src="https://github.com/lrittner/lrittner/blob/main/brain_git.gif">
 
