@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/@leticiarittner466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@leticiarittner466" height="30" width="40" /></a>
 </p>
 
-I’m the Head of the [Medical Image Computing Lab](https://miclab.fee.unicamp.br/), working on AI-based methods and algorithms to analyze medical images and data, such as Structural MRI, Diffusion-MRI and MR Spectroscopy. All MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp)
+I’m the Head of the [Medical Image Computing Lab](https://miclab.fee.unicamp.br/), working on AI-based methods and algorithms to analyze medical images and data, such brain MRI and chest CT. All MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp)
 
 Here you can find repositories with material from undergraduate and graduate courses I teach, such as:
 
