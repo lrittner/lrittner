@@ -2,13 +2,13 @@
 <h1 align="center">Hi, I'm Leticia Rittner</h1>
 <h3 align="center">An Associate Professor at the University of Campinas</h3>
 
-- 🔭 I’m the Head of the [Medical Image Computing Lab](https://miclab.fee.unicamp.br/)
+- I’m the Head of the [Medical Image Computing Lab](https://miclab.fee.unicamp.br/)
+
+- 👨‍💻 All MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp)
 
 - 👯 If you are interested in my [Data Science for Health course](https://datasci4health.github.io/home/)
 
 - 🤝 You can find my [Image Processing course](https://github.com/lrittner/ea979)
-
-- 👨‍💻 All MICLab projects are available at [//github.com/MICLab-Unicamp](//github.com/MICLab-Unicamp)
 
 - 📫 How to reach me **lrittner@unicamp.br**
 
